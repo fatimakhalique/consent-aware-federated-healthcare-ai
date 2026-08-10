@@ -1,0 +1,22 @@
+# Raw datasets — do not commit
+diabetic_data.csv
+*.XPT
+*.xpt
+data/
+
+# Generated experiment outputs
+pipeline_outputs/
+results/
+figures/
+
+# Jupyter/Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
