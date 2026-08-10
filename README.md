@@ -1,7 +1,6 @@
-# Consent-Aware Federated Learning for Health Data
+# Evaluating Health Data Rights in Federated Learning for Clinical AI
 
-Code accompanying the paper on consent withdrawal, fairness, privacy and erasure in federated healthcare AI.
-
+Code accompanying the paper *Evaluating Health Data Rights in Federated Learning for Clinical AI*.
 ## Repository structure
 
 ```text
